@@ -1,3 +1,3 @@
 print "klo" asdasdasdasdasd
 
-asdasdasdasdasdasdasdsadgh auth login
+asdasdasdasdasdasdasdsadgh 
